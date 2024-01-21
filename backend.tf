@@ -8,7 +8,7 @@ terraform {
     organization = "example-org-a0dcfd"
 
     workspaces {
-      name = "getting-started"
+      name = "getting-started-2"
     }
   }
 
